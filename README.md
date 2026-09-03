@@ -178,7 +178,11 @@ Docker
 # 🐍 `Contribution Activity`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quantumrealmcoder/quantumrealmcoder/output/github-contribution-grid-snake.svg" width="90%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="./dist/github-snake.svg">
+  </picture>
 </p>
 
 ---
