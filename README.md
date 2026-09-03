@@ -1,254 +1,256 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhishek%20Sutradhar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20AI&descAlignY=58&descSize=20" width="100%"/> </p>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ===================== INTRO ===================== -->
+<!--                    🚀 MASTER HEADER                         -->
 
-
-# 👋 Hi, I'm Abhishek Sutradhar
-
-### 🚀 Full-Stack Developer | MERN Stack | Java | Backend & API Development
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A67E&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050A14,50:0B2538,100:00C9A7&text=ABHISHEK%20SUTRADHAR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20JAVA%20%7C%20AI&descSize=17&descAlignY=58" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quantumrealmcoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=00FFB3&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;MERN+Stack+Developer+%E2%9A%A1;Java+%7C+DSA+%7C+Backend+Development;Exploring+AI+%26+LLM+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%F0%9F%94%A5" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quantumrealmcoder&label=PROFILE%20VIEWS&color=00C9A7&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/quantumrealmcoder?label=FOLLOWERS&style=for-the-badge&color=00C9A7&labelColor=050A14"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🧑‍💻 `~/about-me`
 
-I'm a passionate **Full-Stack Developer** from India focused on building modern, scalable, and user-friendly web applications.
+```js
+const abhishek = {
+  role: "Full-Stack Developer 🚀",
+  location: "India 🇮🇳",
 
-* 🔭 Currently working on **MERN Stack applications**
-* 🌱 Currently improving my skills in **Backend Development, APIs & System Design**
-* 👯 Open to collaborating on **MERN Stack & Full-Stack projects**
-* 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Java, JavaScript & DSA**
-* 🧠 Interested in **AI-powered applications, APIs, SaaS & automation**
-* 🛠️ Experienced with **REST APIs, Authentication, Database Design & Git**
-* ⚡ Fun fact: **I think I'm funny 😄**
+  stack: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Java"
+  ],
 
----
+  focus: [
+    "Backend Development",
+    "REST APIs",
+    "AI Applications",
+    "System Design"
+  ],
 
-## 🚀 What I Build
+  building: [
+    "AI Moni 🤖",
+    "EventsMonial 🎪",
+    "ERP Applications 🏪"
+  ],
 
-```text
-🌐 Full-Stack Web Applications
-⚛️ React-based Frontend Applications
-🟢 Node.js & Express.js Backend APIs
-🍃 MongoDB Database Solutions
-🔐 Authentication & Authorization Systems
-🔌 REST API Integrations
-📊 Admin Dashboards & ERP Systems
-🤖 AI-powered Applications
-🛒 E-commerce & Shopping Applications
-📱 Responsive Web Applications
+  mindset: "Build • Learn • Improve • Repeat 🔥"
+};
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css" />
-</p>
-
-### ⚛️ Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,vite,bootstrap,tailwind" />
-</p>
-
-### 🟢 Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,docker" />
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-🟢%20BUILDING-00FFB3?style=for-the-badge&labelColor=050A14"/>
+  <img src="https://img.shields.io/badge/MODE-CODE%20%7C%20CREATE-00C9A7?style=for-the-badge&labelColor=050A14"/>
 </p>
 
 ---
 
-## 📚 Core Skills
+# ⚡ `Tech Arsenal`
 
-| Area                 | Skills                                                   |
-| -------------------- | -------------------------------------------------------- |
-| **Frontend**         | React.js, JavaScript, TypeScript, HTML5, CSS3, Bootstrap |
-| **Backend**          | Node.js, Express.js, REST APIs                           |
-| **Database**         | MongoDB, MySQL                                           |
-| **Programming**      | Java, JavaScript                                         |
-| **DSA**              | Data Structures & Algorithms using Java                  |
-| **State Management** | Redux                                                    |
-| **API Testing**      | Postman                                                  |
-| **Version Control**  | Git, GitHub                                              |
-| **Cloud**            | AWS                                                      |
-| **Development**      | REST API, Authentication, CRUD, MVC                      |
-| **Other**            | Responsive Design, Debugging, API Integration            |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,git,github,postman,aws,docker,vscode&perline=10"/>
+
+</p>
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 `What I Build`
 
-### 🏨 Hotel Booking Application
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-A full-stack hotel booking application built using the MERN stack.
+### ⚛️
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • REST API
+**Frontend**
 
-**Features:**
+React.js
+JavaScript
+TypeScript
+Responsive UI
 
-* 🔐 User Authentication
-* 🏨 Hotel & Room Management
-* 🔎 Search & Filtering
-* 📅 Booking Management
-* 👤 User Dashboard
-* 🛠️ Admin Management
+</td>
+
+<td align="center" width="25%">
+
+### 🟢
+
+**Backend**
+
+Node.js
+Express.js
+REST APIs
+Authentication
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Database**
+
+MongoDB
+MySQL
+Data Modeling
+CRUD
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI & Cloud**
+
+AI / LLM
+API Integration
+AWS
+Docker
+
+</td>
+</tr>
+</table>
 
 ---
+
+# 🔥 `Featured Projects`
 
 ### 🤖 AI Moni
 
-An AI-powered shopping and event-planning assistant designed to help users discover products, fashion, and event-related recommendations.
+**AI-powered shopping & event planning assistant**
 
-**Focus Areas:**
-
-`AI` `API Integration` `Shopping` `Recommendations` `Event Planning` `Affiliate Integration`
+`AI` `LLM` `API Integration` `Shopping` `Recommendations`
 
 ---
 
 ### 🎪 EventsMonial
 
-An event vendor discovery and management platform connecting customers with event service providers.
+**Event vendor discovery & management platform**
 
-**Focus Areas:**
-
-`Event Management` `Vendor Discovery` `Lead Management` `ERP` `Web Development`
+`MERN` `Event Management` `Vendor Management` `ERP`
 
 ---
 
-### 🏪 ERP / Inventory Management System
+### 🏨 Hotel Booking
 
-A business management system designed for inventory, purchasing, sales, billing, and reporting.
+**Full-stack hotel booking platform**
 
-**Features:**
-
-* 📦 Inventory Management
-* 🧾 Purchase & Sales
-* 🏷️ Product Categories
-* 💰 Billing
-* 📊 Reports & Dashboard
-* 👥 Admin & Employee Roles
-* 🔢 HSN & Tax Management
+`React` `Node.js` `Express` `MongoDB` `REST API`
 
 ---
 
-## 📊 GitHub Stats
+### 🏪 ERP System
+
+**Business management & inventory platform**
+
+`React` `Node.js` `MongoDB` `Billing` `Inventory`
+
+---
+
+# 📊 `GitHub Analytics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quantumrealmcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=quantumrealmcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumrealmcoder&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=quantumrealmcoder&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=quantumrealmcoder&theme=tokyonight&hide_border=true&background=050A14&ring=00FFB3&fire=00C9A7&currStreakLabel=00FFB3"/>
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 `Contribution Activity`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/quantumrealmcoder/quantumrealmcoder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/quantumrealmcoder/quantumrealmcoder/output/github-contribution-grid-snake.svg" width="90%"/>
 </p>
 
 ---
 
-## 🧠 Problem Solving
-
-I regularly practice **Data Structures & Algorithms using Java** and work on improving my problem-solving and coding skills.
+# 🧠 `Problem Solving`
 
 <p align="center">
-  <a href="https://leetcode.com/riaakash">
-    <img src="https://leetcard.jacoblin.cool/riaakash?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/abhishek-sutradhar-1b82622b8/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:abhisheksutradar@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
-</a>
 
 <a href="https://leetcode.com/riaakash">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" alt="LeetCode"/>
+<img src="https://leetcard.jacoblin.cool/riaakash?theme=dark&font=baloo&ext=heatmap" width="500"/>
 </a>
 
 </p>
 
 ---
 
-## 📄 Resume
+# 🌱 `Currently Learning`
 
-📌 **View my Resume:**
-[Click here to view my Resume](https://in.docworkspace.com/d/sIIednOFP1IKksAY)
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-Exploring-00FFB3?style=for-the-badge&labelColor=050A14"/>
+<img src="https://img.shields.io/badge/System%20Design-Learning-00C9A7?style=for-the-badge&labelColor=050A14"/>
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=050A14"/>
+<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=050A14"/>
+
+</p>
 
 ---
 
-## 💡 Currently Learning
+# 🎯 `2026.exe`
 
 ```text
-⚙️ Advanced Node.js
-🏗️ Backend Architecture
-🔐 Authentication & Security
-☁️ AWS & Cloud Deployment
-🐳 Docker
-🤖 AI & LLM Integration
-📐 System Design
-🧠 Advanced DSA
+[██████████████████░░] 90%
+
+✓ Full-Stack Development
+✓ MERN Stack
+✓ REST API Development
+✓ Java & DSA
+
+→ Advanced Backend
+→ AI / LLM Integration
+→ System Design
+→ Docker & Cloud
+→ Open Source
 ```
 
 ---
 
-## 🎯 2026 Goals
+# 🌐 `Connect With Me`
 
-* 🚀 Build production-ready full-stack applications
-* 🤖 Integrate AI into real-world products
-* ☁️ Improve cloud & deployment skills
-* 🧠 Master DSA & problem solving
-* 🔥 Contribute to open-source projects
-* 🤝 Collaborate with developers and startups
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhishek-sutradhar-1b82622b8/">
+<img src="https://img.shields.io/badge/LINKEDIN-00C9A7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050A14"/>
+</a>
+
+<a href="mailto:abhisheksutrad@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00C9A7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050A14"/>
+</a>
+
+<a href="https://leetcode.com/riaakash">
+<img src="https://img.shields.io/badge/LEETCODE-00C9A7?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=050A14"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-### 🚀 "Build. Learn. Improve. Repeat."
+### ⚡ `BUILD • LEARN • CREATE • REPEAT`
 
-**Thanks for visiting my profile! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A14,50:0B2538,100:00C9A7&height=120&section=footer"/>
 
 </p>
