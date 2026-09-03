@@ -128,49 +128,128 @@ Docker
 
 ---
 
-# 🔥 `Featured Projects`
+# 🔥 Featured Projects
 
-### 🤖 AI Moni
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=80&section=header&text=🚀%20My%20Featured%20Projects&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 AI Moni
+
+<p>
+  <img src="https://img.shields.io/badge/AI-LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-Integration-FF6B6B?style=for-the-badge"/>
+</p>
 
 **AI-powered shopping & event planning assistant**
 
-`AI` `LLM` `API Integration` `Shopping` `Recommendations`
+✨ Personalized recommendations
+🛍️ AI-powered shopping discovery
+🎪 Smart event planning
+🔗 API & affiliate integration
 
----
+**Tech:**
+`AI` `LLM` `API` `Recommendations`
 
-### 🎪 EventsMonial
+</td>
+
+<td width="50%" valign="top">
+
+## 🎪 EventsMonial
+
+<p>
+  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Event-Management-FF4081?style=for-the-badge"/>
+</p>
 
 **Event vendor discovery & management platform**
 
-`MERN` `Event Management` `Vendor Management` `ERP`
+🔎 Vendor discovery
+📋 Vendor management
+📊 Business dashboard
+⚡ Event management
 
----
+**Tech:**
+`MongoDB` `Express` `React` `Node.js`
 
-### 🏨 Hotel Booking
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🏨 Hotel Booking
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
 
 **Full-stack hotel booking platform**
 
-`React` `Node.js` `Express` `MongoDB` `REST API`
+🏨 Hotel discovery
+🔐 Authentication
+📅 Booking management
+💳 REST API integration
 
----
+**Tech:**
+`React` `Node.js` `Express` `MongoDB`
 
-### 🏪 ERP System
+</td>
+
+<td width="50%" valign="top">
+
+## 🏪 ERP System
+
+<p>
+  <img src="https://img.shields.io/badge/ERP-System-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
 **Business management & inventory platform**
 
-`React` `Node.js` `MongoDB` `Billing` `Inventory`
+📦 Inventory management
+🧾 Billing & invoicing
+📊 Business reports
+🏷️ Product & stock management
 
----
+**Tech:**
+`React` `Node.js` `MongoDB` `Billing`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Products+%F0%9F%9A%80;AI+%7C+MERN+%7C+APIs+%7C+Automation;Turning+Ideas+Into+Real+Products+%E2%9A%A1" />
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuantumRealmCoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/QuantumRealmCoder?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/QuantumRealmCoder?label=Stars&style=for-the-badge&color=yellow" />
+</p>
+
 
 # 📊 `GitHub Analytics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quantumrealmcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantumrealmcoder&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantumRealmCoder&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumRealmCoder&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=quantumrealmcoder&theme=tokyonight&hide_border=true&background=050A14&ring=00FFB3&fire=00C9A7&currStreakLabel=00FFB3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumRealmCoder&theme=tokyonight" width="95%"/>
 </p>
 
 ---
@@ -212,24 +291,130 @@ Docker
 
 ---
 
-# 🎯 `2026.exe`
+# 🎯 `2026.exe` — Career Upgrade
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=2026.exe+%7C+System+Upgrade+in+Progress...;Full-Stack+Developer+%E2%86%92+AI+Engineer;Build.+Learn.+Deploy.+Repeat." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-90%25-7C3AED?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Status-ACTIVE-10B981?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Year-2026-2563EB?style=for-the-badge&labelColor=111827" />
+</p>
+
+---
+
+### 🟢 `COMPLETED`
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Full-Stack Development
+
+`HTML` `CSS` `JavaScript`
+`React` `Node.js` `Express`
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚡ MERN Stack
+
+`MongoDB` `Express`
+`React` `Node.js`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔌 REST API Development
+
+`REST` `JSON` `Authentication`
+`API Integration`
+
+</td>
+
+<td align="center">
+
+### ☕ Java & DSA
+
+`Java` `Data Structures`
+`Algorithms` `Problem Solving`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 `UPCOMING_UPGRADES`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01%20Advanced%20Backend-6366F1?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/02%20AI%20%2F%20LLM-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/03%20System%20Design-EC4899?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/04%20Docker%20%26%20Cloud-06B6D4?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/05%20Open%20Source-10B981?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+---
+
+### 📊 `SYSTEM STATUS`
 
 ```text
-[██████████████████░░] 90%
-
-✓ Full-Stack Development
-✓ MERN Stack
-✓ REST API Development
-✓ Java & DSA
-
-→ Advanced Backend
-→ AI / LLM Integration
-→ System Design
-→ Docker & Cloud
-→ Open Source
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  2026.exe                                           │
+│                                                     │
+│  ████████████████████████████████████████░░░░  90% │
+│                                                     │
+│  ● Backend Engineering          ONLINE              │
+│  ● AI / LLM Integration        LEARNING            │
+│  ● System Design               LEARNING            │
+│  ● Docker & Cloud              BUILDING            │
+│  ● Open Source                 EXPLORING           │
+│                                                     │
+│  SYSTEM STATUS:  OPERATIONAL                       │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
+
+### 🧠 `2026.MISSION`
+
+<p align="center">
+
+**Build products.**
+**Solve real problems.**
+**Master modern technologies.**
+**Contribute to open source.**
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=06B6D4&center=true&vCenter=true&width=600&lines=%3E+Initializing+next+level...;%3E+Learning+new+technologies...;%3E+Building+real-world+products...;%3E+2026.exe+running+successfully+%E2%9C%93" />
+</p>
+
+<p align="center">
+  <sub>⚡ Continuous learning • 🚀 Continuous building • 🌎 Continuous growth</sub>
+</p>
+
+
 
 # 🌐 `Connect With Me`
 
