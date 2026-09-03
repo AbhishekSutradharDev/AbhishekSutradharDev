@@ -240,6 +240,38 @@ Docker
   <img src="https://img.shields.io/github/stars/QuantumRealmCoder?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
+<h2 align="center">🤝 Open Source Contributions</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Open+Source+Contributions;Building+%7C+Collaborating+%7C+Improving" />
+</p>
+
+<table align="center">
+<tr>
+<td width="100%" align="center">
+
+### ⚡ EPMS — Enterprise Product Management System
+
+Contributed to the development of an ERP/Product Management System,
+working on application features, improvements and development tasks.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/ERP-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/BiplabMahanty/EPMS">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 
 # 📊 `GitHub Analytics`
 
