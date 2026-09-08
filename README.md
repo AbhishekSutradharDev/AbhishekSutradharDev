@@ -273,15 +273,15 @@ working on application features, improvements and development tasks.
 </table>
 
 
-# 📊 `GitHub Analytics`
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantumRealmCoder&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumRealmCoder&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhishekSutradharDev&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekSutradharDev&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumRealmCoder&theme=tokyonight" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhishekSutradharDev&theme=tokyonight" width="95%"/>
 </p>
 
 ---
